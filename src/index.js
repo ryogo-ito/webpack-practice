@@ -1,3 +1,5 @@
+import _ from "lodash";
+
 function component() {
     const ele = document.createElement('div')
 
